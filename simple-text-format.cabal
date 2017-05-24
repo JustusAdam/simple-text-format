@@ -1,7 +1,7 @@
 name:                simple-text-format
-version:             0.1.0.0
--- synopsis:
--- description:
+version:             0.1
+synopsis:            Simple text based format strings with named identifiers.
+description:         A simple library for format strings based on text and attoparsec. See the readme for more details.
 homepage:            https://github.com/JustusAdam/simple-text-format#readme
 license:             BSD3
 license-file:        LICENSE
